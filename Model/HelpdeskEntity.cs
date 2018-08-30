@@ -34,7 +34,7 @@ namespace Helpdesk_CodeFirst
         public string Description { get; set; }
         public DateTime Dtm_Crt { get; set; }
         public string L1 { get; set; }
-        public DateTime DueDateType { get; set; }
+        public DateTime DueDate { get; set; }
         public DateTime Last_update { get; set; }
         public DateTime OnProgressDate { get; set; }
         public DateTime OnWaitingDate { get; set; }
@@ -44,7 +44,7 @@ namespace Helpdesk_CodeFirst
         public string Technician { get; set; }
         public string Status { get; set; }
 
-        public string TypeID { get; set; }
+        public int TypeID { get; set; }
         public int UserID { get; set; }
         public int CategoryID { get; set; }
         public int SubCategoryID { get; set; }

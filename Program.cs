@@ -52,7 +52,7 @@ namespace Helpdesk_CodeFirst
             Console.WriteLine("||    1. ROLE        ||    5. CATEGORY     ||");
             Console.WriteLine("||    2. DEPARTMENT  ||    6. SUBCATEGORY  ||");
             Console.WriteLine("||    3. USER        ||    7. TICKET       ||");
-            Console.WriteLine("||    4. DueDATE     ||    8. EXIT         ||");
+            Console.WriteLine("||    4. TYPE        ||    8. EXIT         ||");
             Console.WriteLine("=============================================");
         }
         public void m1()
@@ -102,6 +102,12 @@ namespace Helpdesk_CodeFirst
                     Console.WriteLine("Sukses");
                     break;
                 case 7:
+                    TicketController panggiltck = new TicketController();
+                    panggiltck.InsertTicket();
+                    Console.WriteLine("=============================================");
+                    Console.WriteLine("Sukses");
+                    break;
+                case 8:
                     Console.Clear();
                     Console.WriteLine("Press Any Key...");
                     break;
@@ -159,6 +165,12 @@ namespace Helpdesk_CodeFirst
                     Console.WriteLine("Sukses");
                     break;
                 case 7:
+                    TicketController panggiltck = new TicketController();
+                    panggiltck.GetAllTicket();
+                    Console.WriteLine("=============================================");
+                    Console.WriteLine("Sukses");
+                    break;
+                case 8:
                     Console.Clear();
                     Console.WriteLine("=============================================");
                     Console.WriteLine("Press Any Key...");
@@ -172,7 +184,7 @@ namespace Helpdesk_CodeFirst
         }
         public void m3()
         {
-            int menu3, input1, input2, input3, input5, input6;
+            int menu3, input1, input2, input3, input5, input6,input7;
             string input4;
         m3:
             Console.Clear();
@@ -230,6 +242,14 @@ namespace Helpdesk_CodeFirst
                     Console.WriteLine("Sukses");
                     break;
                 case 7:
+                    System.Console.Write("Masukkan Id yang ingin di ubah : ");
+                    input7 = Convert.ToInt32(System.Console.ReadLine());
+                    TicketController panggiltck = new TicketController();
+                    panggiltck.UpdateTicket(input7);
+                    Console.WriteLine("=============================================");
+                    Console.WriteLine("Sukses");
+                    break;
+                case 8:
                     Console.Clear();
                     Console.WriteLine("Press Any Key...");
                     break;
@@ -242,7 +262,7 @@ namespace Helpdesk_CodeFirst
         }
         public void m4()
         {
-            int menu4, input1, input2, input3, input5, input6;
+            int menu4, input1, input2, input3, input5, input6,input7;
             string input4;
         m4:
             Console.Clear();
@@ -292,7 +312,7 @@ namespace Helpdesk_CodeFirst
                     Console.WriteLine("Sukses");
                     break;
                 case 6:
-                    System.Console.Write("Masukkan Id yang ingin di ubah : ");
+                    System.Console.Write("Masukkan Id yang ingin di hapus : ");
                     input6 = Convert.ToInt32(System.Console.ReadLine());
                     SubCategoryController panggilsubcat = new SubCategoryController();
                     panggilsubcat.DeleteSubCategory(input6);
@@ -300,6 +320,10 @@ namespace Helpdesk_CodeFirst
                     Console.WriteLine("Sukses");
                     break;
                 case 7:
+                    System.Console.Write("Masukkan Id yang ingin di hapus : ");
+                    input7 = Convert.ToInt32(System.Console.ReadLine());
+                    TicketController panggiltck = new TicketController();
+                    panggiltck.DeleteTicket(input7);
                     Console.Clear();
                     Console.WriteLine("Press Any Key...");
                     break;
