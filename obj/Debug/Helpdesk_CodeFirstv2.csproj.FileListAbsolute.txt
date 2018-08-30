@@ -1,0 +1,15 @@
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\bin\Debug\Helpdesk_CodeFirstv2.exe.config
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\bin\Debug\Helpdesk_CodeFirstv2.exe
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\bin\Debug\Helpdesk_CodeFirstv2.pdb
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\bin\Debug\EntityFramework.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\bin\Debug\EntityFramework.SqlServer.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\bin\Debug\EntityFramework.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\bin\Debug\EntityFramework.SqlServer.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\obj\Debug\Helpdesk_CodeFirstv2.csprojResolveAssemblyReference.cache
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\obj\Debug\Helpdesk_CodeFirstv2.exe
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\obj\Debug\Helpdesk_CodeFirstv2.pdb
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\obj\Debug\Helpdesk_CodeFirstv2.Migrations.helpdeskv2.resources
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\obj\Debug\Helpdesk_CodeFirstv2.csproj.GenerateResource.Cache
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\New folder\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\bin\Debug\Helpdesk_CodeFirstv2.exe.config
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\New folder\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\obj\Debug\Helpdesk_CodeFirstv2.exe
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\6 Visual Studio\Project\New folder\Helpdesk_CodeFirstv2\Helpdesk_CodeFirstv2\obj\Debug\Helpdesk_CodeFirstv2.pdb
